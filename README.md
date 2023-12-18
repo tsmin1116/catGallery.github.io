@@ -1,1 +1,0 @@
-# catGallery_policy
